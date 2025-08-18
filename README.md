@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vansh Dubey</h1>
 <h3 align="center">Driven by Curiosity, Building Beyond the Surface</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/VanshDubey101963/](https://github.com/VanshDubey101963/)
-
 - 💬 Ask me about **Backend Systems ,Databases & APIs, System Internals & Low-Level Concepts**
 
 - 📫 How to reach me **vanshdubey101963@gmail.com**
