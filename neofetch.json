@@ -20,7 +20,7 @@
     },
     {
       "fields": [
-        { "key": "Languages", "value": "{{languages}}, Go , C/C++", },
+        { "key": "Languages", "value": "{{languages}}, Go , C/C++" },
         { "key": "IDE", "value": "VSCode, Neovim, Zed" },
 
         { "key": "Frontend", "value": "React, Redux, Tailwind CSS" },
