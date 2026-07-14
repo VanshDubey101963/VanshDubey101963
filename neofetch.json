@@ -1,7 +1,4 @@
 {
-  "image": "https://raw.githubusercontent.com/vanshdubey101963/vanshdubey101963/main/githublogo.png",
-  "imageScale": 1,
-  "removeBackground": false,
   "sections": [
     {
       "title": "{{username}}@GitHub",
