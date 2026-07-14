@@ -14,30 +14,30 @@
 
         { "key": "OS", "value": "Arch Linux x86_64" },
         { "key": "Shell", "value": "bash, zsh" },
-        { "key": "Kernel", "value": "Software Engineer" },
+        { "key": "Kernel", "value": "Close to the Metal" },
         { "key": "Status", "value": "Building • Breaking • Understanding" }
       ]
     },
     {
       "fields": [
-        { "key": "Languages", "value": "{{languages}}" },
-        { "key": "IDE", "value": "VSCode, Neovim" },
+        { "key": "Languages", "value": "{{languages}}, Go , C/C++", },
+        { "key": "IDE", "value": "VSCode, Neovim, Zed" },
 
         { "key": "Frontend", "value": "React, Redux, Tailwind CSS" },
-        { "key": "Backend", "value": "Node.js, Express, Django" },
+        { "key": "Backend", "value": "Node.js, Express, Gin" },
         { "key": "Databases", "value": "PostgreSQL, MongoDB, Redis" },
         { "key": "Realtime", "value": "WebSockets, Socket.IO" },
         { "key": "AI", "value": "PyTorch, TensorFlow, LangChain, LangGraph" },
-        { "key": "Agentic", "value": "AI Agents, MCP, Tool Calling" },
+        { "key": "Agentic", "value": "AI Agents, MCP" },
         { "key": "Cloud", "value": "AWS, EC2, S3" },
-        { "key": "DevOps", "value": "Docker, Kubernetes, Nginx, Terraform" },
-        { "key": "Observability", "value": "Prometheus" }
+        { "key": "DevOps", "value": "Docker, Kubernetes, Nginx, Terraform, Ansible" },
+        { "key": "Observability", "value": "Prometheus, Grafana" }
       ]
     },
     {
       "fields": [
-        { "key": "Interests.Systems", "value": "Operating Systems, Compilers, Networking" },
-        { "key": "Interests.Architecture", "value": "Distributed Systems, System Design" },
+        { "key": "Interests.Systems", "value": "Operating System, Networking, Kernel" },
+        { "key": "Interests.Architecture", "value": "Distributed Systems", "Event Driven Systems" },
         { "key": "Interests.LowLevel", "value": "Memory, Processes, Linux Internals" },
         { "key": "Interests.Building", "value": "Understanding things from first principles" },
         { "key": "Runtime.Mode", "value": "Curious by default" },
