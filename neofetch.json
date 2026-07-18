@@ -1,4 +1,5 @@
 {
+  "image": "https://raw.githubusercontent.com/vanshdubey101963/vanshdubey101963/main/githublogo.png",
   "sections": [
     {
       "title": "{{username}}@GitHub",
@@ -34,7 +35,7 @@
     {
       "fields": [
         { "key": "Interests.Systems", "value": "Operating System, Networking, Kernel" },
-        { "key": "Interests.Architecture", "value": "Distributed Systems", "Event Driven Systems" },
+        { "key": "Interests.Architecture", "value": "Distributed Systems , Event Driven Systems" },
         { "key": "Interests.LowLevel", "value": "Memory, Processes, Linux Internals" },
         { "key": "Interests.Building", "value": "Understanding things from first principles" },
         { "key": "Runtime.Mode", "value": "Curious by default" },
